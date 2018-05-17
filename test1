@@ -1,0 +1,6 @@
+参照白鹭引擎文档：http://developer.egret.com/cn/apidoc/
+egret.Shape文档http://developer.egret.com/cn/apidoc/index/name/egret.Shape
+egret.Graphics文档http://developer.egret.com/cn/apidoc/index/name/egret.Graphics
+       1.用egret.Shape绘制一个矩形【纯色】并添加到舞台
+       2.用egret.Shape绘制一个手表表盘【表盘颜色a，刻度颜色b，分针颜色c，秒针颜色d】
+       3.用egret.Shape绘制计时器，每秒动一次
